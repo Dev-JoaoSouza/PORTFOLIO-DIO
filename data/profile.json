@@ -3,33 +3,33 @@
     "photo": "https://avatars.githubusercontent.com/u/143208624?v=4",
     "job": "Desenvolvedor front-end",
     "location": "Baldim - MG",
-    "telefone": "(31) 98822-1445",
+    "phone": "(31) 98822-1445",
     "email": "joaogrsouza@live.com",
     "skills": {
         "hardSkills": [
             {
                 "name": "HTML5",
-                "logo": "logo"
+                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/html.png"
             },
             {
                 "name": "CSS3",
-                "logo": "logo"
+                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/css.png"
             },
             {
                 "name": "JavaScript",
-                "logo": "logo"
+                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/js.png"
             },
             {
                 "name": "React",
-                "logo": "logo"
+                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/react.png"
             },
             {
                 "name": "Python",
-                "logo": "logo"
+                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/python.png"
             },
             {
                 "name": "vscode",
-                "logo": "logo"
+                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/vscode.png"
             }
         ],
         "softSkills": [
