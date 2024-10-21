@@ -1,0 +1,82 @@
+{
+    "name": "João Guilherme da R. de Souza",
+    "photo": "https://avatars.githubusercontent.com/u/143208624?v=4",
+    "job": "Desenvolvedor front-end",
+    "location": "Baldim - MG",
+    "telefone": "(31) 98822-1445",
+    "email": "joaogrsouza@live.com",
+    "skills": {
+        "hardSkills": [
+            {
+                "name": "HTML5",
+                "logo": "logo"
+            },
+            {
+                "name": "CSS3",
+                "logo": "logo"
+            },
+            {
+                "name": "JavaScript",
+                "logo": "logo"
+            },
+            {
+                "name": "React",
+                "logo": "logo"
+            },
+            {
+                "name": "Python",
+                "logo": "logo"
+            },
+            {
+                "name": "vscode",
+                "logo": "logo"
+            }
+        ],
+        "softSkills": [
+            "Organização",
+            "Facilidade com tarefas práticas",
+            "Liderança",
+            "Trabalho em equipe",
+            "Flexibilidade"
+        ]
+    },
+    "languages": [
+        "Português BR",
+        "Inglês (intermediário)",
+        "Espanhol (básico)"
+    ],
+    "portfolio": [
+        {
+            "name": "Criação de uma pokedex com a pokeApi (DIO)",
+            "url": "https://github.com/Dev-JoaoSouza/pokedex",
+            "github": true
+        },
+        {
+            "name": "Clone do site da HBO Max (DIO)",
+            "url": "https://github.com/Dev-JoaoSouza/trilha-css-desafio-5",
+            "github": true
+        },
+        {
+            "name": "Reproduzindo a página da plataforma do Discord com a Responsividade do CSS (DIO)",
+            "url": "https://github.com/Dev-JoaoSouza/trilha-css-desafio-4",
+            "github": true
+        }
+    ],
+    "professionalExperience" : [
+        {
+            "name": "Técnico de Qualidade / SPE Transmissora de Energia",
+            "period": "Set 2021 - Jul 2022",
+            "description": "Atuava no setor da qualidade da empresa em um empreendimento de linha de transmissão."
+        },
+        {
+            "name": "Auxiliar de Engenharia / Quebec Engenharia S/A",
+            "period": "Jan 2021 - jul 2021",
+            "description": "Atuava no setor da qualidade da empresa em um empreendimento de linha de transmissão."
+        },
+        {
+            "name": "Eletricista Predial / Eletricista Predial",
+            "period": "Out 2020 - Jan 2021",
+            "description": "Atuava na execução de instalações elétricas, além da manutenção corretiva; faço a manutenção da fiação elétrica."
+        }
+    ]
+}
