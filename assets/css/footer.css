@@ -1,0 +1,12 @@
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+footer img {
+    max-width: 100px;
+    padding: 1rem;
+    cursor: pointer;
+}
