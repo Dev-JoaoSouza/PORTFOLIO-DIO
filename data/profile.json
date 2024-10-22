@@ -3,33 +3,33 @@
     "photo": "https://avatars.githubusercontent.com/u/143208624?v=4",
     "job": "Desenvolvedor front-end",
     "location": "Baldim - MG",
-    "phone": "(31) 98822-1445",
+    "phone": "(24) 98822-1445",
     "email": "joaogrsouza@live.com",
     "skills": {
         "hardSkills": [
             {
                 "name": "HTML5",
-                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/html.png"
+                "logo": "https://raw.githubusercontent.com/Dev-JoaoSouza/PORTFOLIO-DIO/refs/heads/main/data/imgs/html.png"
             },
             {
                 "name": "CSS3",
-                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/css.png"
+                "logo": "https://raw.githubusercontent.com/Dev-JoaoSouza/PORTFOLIO-DIO/refs/heads/main/data/imgs/css.png"
             },
             {
                 "name": "JavaScript",
-                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/js.png"
+                "logo": "https://raw.githubusercontent.com/Dev-JoaoSouza/PORTFOLIO-DIO/refs/heads/main/data/imgs/js.png"
             },
             {
                 "name": "React",
-                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/react.png"
+                "logo": "https://raw.githubusercontent.com/Dev-JoaoSouza/PORTFOLIO-DIO/refs/heads/main/data/imgs/react.png"
             },
             {
                 "name": "Python",
-                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/python.png"
+                "logo": "https://raw.githubusercontent.com/Dev-JoaoSouza/PORTFOLIO-DIO/refs/heads/main/data/imgs/python.png"
             },
             {
                 "name": "vscode",
-                "logo": "https://github.com/Dev-JoaoSouza/PORTFOLIO-DIO/blob/main/data/imgs/vscode.png"
+                "logo": "hhttps://raw.githubusercontent.com/Dev-JoaoSouza/PORTFOLIO-DIO/refs/heads/main/data/imgs/vscode.png"
             }
         ],
         "softSkills": [
@@ -66,17 +66,17 @@
         {
             "name": "Técnico de Qualidade / SPE Transmissora de Energia",
             "period": "Set 2021 - Jul 2022",
-            "description": "Atuava no setor da qualidade da empresa em um empreendimento de linha de transmissão."
+            "description": "Atuava no setor da qualidade da empresa em um empreendimento de linha de transmissão. Sou responsável por apresentar o setor da qualidade para os novos colaboradores, controlo o recebimento dos protocolos das atividades realizadas em campo, impressão e controle de projetos para os colaboradores e apresentação dos procedimentos da empresa para os colaboradores."
         },
         {
             "name": "Auxiliar de Engenharia / Quebec Engenharia S/A",
             "period": "Jan 2021 - jul 2021",
-            "description": "Atuava no setor da qualidade da empresa em um empreendimento de linha de transmissão."
+            "description": "Atuava no setor da qualidade da empresa em um empreendimento de linha de transmissão. Era responsável por apresentar o setor da qualidade para os novos colaboradores, controlava o recebimento dos protocolos das atividades realizadas em campo, impressão e controle de projetos para os colaboradores e apresentação dos procedimentos da empresa para os colaboradores."
         },
         {
             "name": "Eletricista Predial / Eletricista Predial",
             "period": "Out 2020 - Jan 2021",
-            "description": "Atuava na execução de instalações elétricas, além da manutenção corretiva; faço a manutenção da fiação elétrica."
+            "description": "Atuava na execução de instalações elétricas, além da manutenção corretiva; faço a manutenção da fiação elétrica; interpreto diagramas elétricos; dominar conhecimento das normas técnicas e de segurança relativas a eletricidade; conhecer especificações de cabos e fios para instalação elétrica de baixa tensão."
         }
     ]
 }
